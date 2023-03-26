@@ -1,11 +1,9 @@
 package com.example.testsecurity2dbthymeleaf.entity;
 
-import com.example.testsecurity2dbthymeleaf.repository.UserActionRepository;
 import jakarta.persistence.*;
 import lombok.*;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 
 
 @Getter
